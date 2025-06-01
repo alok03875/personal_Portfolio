@@ -74,7 +74,7 @@ const About = () => {
 
         <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
           <a
-            href="/Alok_CV.pdf"
+            href="Alok_Updated_Cv.pdf"
             download
             className="flex items-center gap-2 px-5 py-2 bg-[#915EFF] text-white rounded-lg hover:bg-[#7a4fe0] transition duration-300"
           >
